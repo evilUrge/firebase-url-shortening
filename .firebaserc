@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "your-qa-id-goes-here",
+    "qa": "your-qa-id-goes-here",
+    "production": "your-production-id-goes-here"
+  }
+}

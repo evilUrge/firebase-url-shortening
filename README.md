@@ -1,6 +1,6 @@
 Firebase URL Shortening
 ---
-Create a tiny version of every url
+Create a tiny version of any url
 
 ## How to use
 * As we have 2 separate environments in this setup, edit `/function/config/production.json` and `development.json` based on your project configurations:

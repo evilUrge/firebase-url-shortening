@@ -1,5 +1,8 @@
 Firebase URL Shortening
 ---
+
+<a href="https://codeclimate.com/github/evilUrge/firebase-url-shortening/maintainability"><img src="https://api.codeclimate.com/v1/badges/c9161ee414a526a91bb1/maintainability" /></a>
+
 Create a tiny version of any url
 
 ## How to use
